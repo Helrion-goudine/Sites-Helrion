@@ -317,6 +317,11 @@ footer p{
       color: var(--branco);
 
   }
+
+  footer a{
+      color: var(--branco);
+
+  }
 }
 
 /* Tela de Smartphone */
