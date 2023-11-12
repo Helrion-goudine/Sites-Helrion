@@ -314,6 +314,8 @@ footer p{
 
   footer{
       flex-direction: column;
+      color: var(--branco);
+
   }
 }
 
