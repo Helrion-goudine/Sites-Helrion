@@ -337,4 +337,9 @@ footer p{
   .heading h3 {
       font-size: 3rem;
   }
+
+    footer a{
+      color: var(--branco);
+
+  }
 }
