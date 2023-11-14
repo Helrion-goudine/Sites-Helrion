@@ -345,6 +345,10 @@ footer p{
 }
 }
 
+@media (max-width: 790px) {
+  flex-direction: column;
+}
+
 /* Tela de Smartphone */
 @media (max-width: 450px) {
  #menu-btn {
