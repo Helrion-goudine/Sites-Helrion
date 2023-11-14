@@ -259,6 +259,7 @@ footer p{
   #menu-btn {
       display: inline-block;
       margin-right: 20px;
+      padding: 40px
   }
 
   .header{
@@ -283,6 +284,8 @@ footer p{
       display: block;
       margin: 2rem;
       color: var(--branco);
+      padding: 40px
+
   }
 
   .header .flex .navbar.active{
