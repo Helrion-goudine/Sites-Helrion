@@ -346,7 +346,8 @@ footer p{
 }
 
 @media (max-width: 790px) {
-  flex-direction: column;
+  footer{
+    flex-direction: column;
 }
 
 /* Tela de Smartphone */
