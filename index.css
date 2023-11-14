@@ -292,9 +292,8 @@ footer p{
 
   .header .flex .logo img {
      display: flex;
-     justify-content: space-evenly;
-
-    
+     align-items: center;
+     justify-content: center;
 }
   
   .home{
