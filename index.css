@@ -343,8 +343,11 @@ footer p{
       font-size: 3rem;
   }
 
-    footer a{
+   footer a{
       color: var(--branco);
 
+    .header .flex .logo img {
+     display: flex;
+     margin-left: 25%;
   }
 }
